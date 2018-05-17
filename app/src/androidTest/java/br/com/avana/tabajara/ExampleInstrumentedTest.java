@@ -1,4 +1,4 @@
-package br.com.avana.tabajara;
+package br.com.cadastro.teste;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("br.com.avana.tabajara", appContext.getPackageName());
+        assertEquals("br.com.cadastro.teste", appContext.getPackageName());
     }
 }
